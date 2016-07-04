@@ -1,2 +1,2 @@
-adsf
-dfasdf
+frank is learning git
+frank is learning linux
