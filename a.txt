@@ -1,7 +1,1 @@
-frank is learning git
-frank is learning linux
-another line
 frank is buffled
-a new line
-
-added a different line
