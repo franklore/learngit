@@ -1,2 +1,3 @@
 frank cannot understand
 how the conflict is fixed
+added a new line
